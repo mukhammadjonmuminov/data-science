@@ -1,7 +1,6 @@
 ## Python
 
 ### Basic
-**Topics**
 
 - Data types
 - Variables
@@ -17,7 +16,6 @@
 - Installing & Importing Modules
 
 ### Intermediate
-**Topics**
 
 - Virtual Environment
 - Enumerate
@@ -29,7 +27,6 @@
 - Creating Python modules
 
 ### Advanced - Object Oriented Programming
-**Topics**
 
 - Basics of Object Oriented Programming
 - Creating Class and Object
